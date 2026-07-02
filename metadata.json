@@ -1,0 +1,6 @@
+{
+  "name": "Railway Empire Lite",
+  "description": "Un juego de estrategia y gestión ferroviaria en HTML5 donde construyes vías, gestionas trenes y transportas mercancías y pasajeros entre ciudades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
